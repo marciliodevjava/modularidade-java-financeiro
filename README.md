@@ -1,2 +1,2 @@
 # modularidade-java-financeiro
-Modularidade Java Pasta Financeiro
+Modularidade com Java Pasta Financeiro
